@@ -1,0 +1,5 @@
+{
+  "name": "Gestor de Contratación Estatal Colombia (GCEC)",
+  "description": "Herramienta inteligente para estructurar, gestionar y validar proyectos de contratación pública bajo la legislación colombiana (Ley 80, Ley 1150). Utiliza IA para generar borradores, matrices de riesgos y cronogramas.",
+  "requestFramePermissions": []
+}
